@@ -1,0 +1,92 @@
+{
+  "materials": {
+    "NEMA-17 Stepper Motor": {
+      "base_cost_inr": 450.0
+    },
+    "SG90 Micro Servo Motor": {
+      "base_cost_inr": 120.0
+    },
+    "Raspberry Pi 4 Model B": {
+      "base_cost_inr": 3200.0
+    },
+    "Arduino Uno R3": {
+      "base_cost_inr": 650.0
+    },
+    "ESP32 Development Board": {
+      "base_cost_inr": 280.0
+    },
+    "L298N Motor Driver": {
+      "base_cost_inr": 180.0
+    },
+    "OLED Display 0.96 inch": {
+      "base_cost_inr": 150.0
+    },
+    "LiPo Battery 11.1V 2200mAh": {
+      "base_cost_inr": 1200.0
+    },
+    "12V 2A DC Power Adapter": {
+      "base_cost_inr": 350.0
+    },
+    "Solderless Breadboard": {
+      "base_cost_inr": 80.0
+    }
+  },
+  "labor": {
+    "Shenzhen, China": {
+      "manufacturing_multiplier": 1.15
+    },
+    "Bengaluru, India": {
+      "manufacturing_multiplier": 1.05
+    },
+    "Taipei, Taiwan": {
+      "manufacturing_multiplier": 1.25
+    },
+    "Seoul, South Korea": {
+      "manufacturing_multiplier": 1.40
+    },
+    "Guadalajara, Mexico": {
+      "manufacturing_multiplier": 1.10
+    },
+    "California, USA": {
+      "manufacturing_multiplier": 1.80
+    },
+    "Ho Chi Minh City, Vietnam": {
+      "manufacturing_multiplier": 0.95
+    },
+    "Tokyo, Japan": {
+      "manufacturing_multiplier": 1.50
+    }
+  },
+  "shipping": {
+    "Shenzhen_to_Texas": {
+      "cost_per_unit_inr": 85.0
+    },
+    "Shenzhen_to_California": {
+      "cost_per_unit_inr": 70.0
+    },
+    "Shenzhen_to_Bengaluru": {
+      "cost_per_unit_inr": 40.0
+    },
+    "Bengaluru_to_Texas": {
+      "cost_per_unit_inr": 120.0
+    },
+    "Taipei_to_California": {
+      "cost_per_unit_inr": 75.0
+    },
+    "Taipei_to_Texas": {
+      "cost_per_unit_inr": 90.0
+    },
+    "Seoul_to_Texas": {
+      "cost_per_unit_inr": 95.0
+    },
+    "Guadalajara_to_Texas": {
+      "cost_per_unit_inr": 35.0
+    },
+    "Ho_Chi_Minh_to_California": {
+      "cost_per_unit_inr": 70.0
+    },
+    "Tokyo_to_Texas": {
+      "cost_per_unit_inr": 110.0
+    }
+  }
+}
